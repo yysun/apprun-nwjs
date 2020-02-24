@@ -1,0 +1,10 @@
+{
+  "name": "apprun-nw-app",
+  "version": "1.0.0",
+  "main": "index.html",
+  "window": {
+    "title": "AppRun App",
+    "toolbar": true,
+    "width": 1000
+  }
+}
